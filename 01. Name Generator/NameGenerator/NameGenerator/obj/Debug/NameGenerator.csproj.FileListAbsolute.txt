@@ -1,0 +1,6 @@
+E:\GitHub_Projects\Programming-Challenges-C-Sharp\01. Name Generator\NameGenerator\NameGenerator\bin\Debug\NameGenerator.exe.config
+E:\GitHub_Projects\Programming-Challenges-C-Sharp\01. Name Generator\NameGenerator\NameGenerator\bin\Debug\NameGenerator.exe
+E:\GitHub_Projects\Programming-Challenges-C-Sharp\01. Name Generator\NameGenerator\NameGenerator\bin\Debug\NameGenerator.pdb
+E:\GitHub_Projects\Programming-Challenges-C-Sharp\01. Name Generator\NameGenerator\NameGenerator\obj\Debug\NameGenerator.csprojResolveAssemblyReference.cache
+E:\GitHub_Projects\Programming-Challenges-C-Sharp\01. Name Generator\NameGenerator\NameGenerator\obj\Debug\NameGenerator.exe
+E:\GitHub_Projects\Programming-Challenges-C-Sharp\01. Name Generator\NameGenerator\NameGenerator\obj\Debug\NameGenerator.pdb
