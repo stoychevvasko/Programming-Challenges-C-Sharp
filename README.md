@@ -105,19 +105,19 @@ _for educational purposes only!_
 ####  98. Basic Lisp Interpreter
 ####  99. Enigma Machine Simulator with settings.conf (Hard mode: decrypt message without known settings)
 
-Changed: 40, 69, 89
-Categories:
-	String manipulation/Interpreters: 
+- Changed: 40, 69, 89
+- Categories:
+  -	String manipulation/Interpreters: 
 		9, 10, 12, 15, 17, 52, 60, 65, 72, 74, 76, 78, 79, 98, 99
-	Math and CS: 
+  -	Math and CS: 
 		3, 4, 5, 11, 14, 20, 23, 25, 26, 27, 28, 29, 32, 33, 34, 38, 39, 42, 48, 54, 55, 56, 57, 59, 61, 63, 64, 66, 67, 69, 70, 77, 80, 86, 87, 88, 91, 92, 93, 95, 96, 97
-	Networking:
+  -	Networking:
 		21, 36, 46, 47, 51, 53, 75, 84, 89
-	Games: 
+  -	Games: 
 		6, 7, 13, 18, 19, 22, 30, 31, 37, 44, 45, 49, 50, 62, 73, 81, 82, 85, 90, 94, 
-	Converters:
+  -	Converters:
 		2, 24, 35, 43, 58
-	Misc:
+  -	Misc:
 		16, 40, 41, 68, 71, 83
 
 *Implement at least one tool (except Morse code) in Rumkin Collection:
