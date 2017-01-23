@@ -19,7 +19,7 @@ _for educational purposes only!_
 ####  12. Haiku Generator
 ####  13. Magic Eight Ball
 ####  14. Collatz Conjecture
-![alt text](https://github.com/stoychevvasko/Programming-Challenges-C-Sharp/blob/master/.resources/done.png "done")####  15. Reverse a String
+![alt text](https://github.com/stoychevvasko/Programming-Challenges-C-Sharp/blob/master/resources/done.png "done")####  15. Reverse a String
 ####  16. Simple File Explorer
 ####  17. Count Words in String
 ####  18. Minesweeper
